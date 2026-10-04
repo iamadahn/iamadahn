@@ -13,7 +13,7 @@
 Разработчик [Molten-Zharr](https://github.com/molten-zharr).
 
 <p>
-  <a href="https://github.com/iamadahn"><img src="assets/badges/github.svg" height="30" alt="GitHub"></a>
+  <a href="https://github.com/iamadahn"><img src="assets/badges/github-orange.svg" height="30" alt="GitHub"></a>
   <a href="https://github.com/molten-zharr"><img src="assets/badges/organization.svg" height="30" alt="Molten-Zharr"></a>
   <a href="manifesto/README.ru.md"><img src="assets/badges/manifesto.svg" height="30" alt="Манифест"></a>
 </p>
