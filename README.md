@@ -4,9 +4,9 @@
 
 [English](README.md) · [Русский](README.ru.md)
 
-<img src="assets/avatar.png" width="23%" align="right" alt="Molten-Zharr emblem with an angular furnace face and three red crystals">
-
 # Adahn The Imagined
+
+<img src="assets/avatar.png" width="23%" align="right" alt="Molten-Zharr emblem with an angular furnace face and three red crystals">
 
 I build embedded software in C and Rust for STM32 and ESP32.
 
@@ -45,8 +45,6 @@ I share the Molten-Zharr approach: beautiful software, guidance inside the appli
 | Project | What it does |
 |---|---|
 | [iamforecast](https://github.com/iamadahn/iamforecast) | ESP32 weather station powered by Zephyr RTOS, with a display, touch input, and a temperature and humidity sensor. |
-| [iamrc](https://github.com/iamadahn/iamrc) | Rust firmware for the STM32F411 remote controller of the iamcar project. |
-| [stm32iamboot](https://github.com/iamadahn/stm32iamboot) | STM32F1 bootloader for firmware updates over USART. |
 
 <details>
 <summary>More about my tools</summary>

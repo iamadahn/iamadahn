@@ -4,9 +4,9 @@
 
 [English](README.md) · [Русский](README.ru.md)
 
-<img src="assets/avatar.png" width="23%" align="right" alt="Знак Molten-Zharr с геометричным лицом печи и тремя красными кристаллами">
-
 # Adahn The Imagined
+
+<img src="assets/avatar.png" width="23%" align="right" alt="Знак Molten-Zharr с геометричным лицом печи и тремя красными кристаллами">
 
 Пишу встраиваемое ПО на C и Rust для STM32 и ESP32.
 
@@ -45,8 +45,6 @@ focus      Встраиваемые системы - удобство
 | Проект | Что он делает |
 |---|---|
 | [iamforecast](https://github.com/iamadahn/iamforecast) | Метеостанция на ESP32 и Zephyr RTOS с дисплеем, сенсорным вводом и датчиком температуры и влажности. |
-| [iamrc](https://github.com/iamadahn/iamrc) | Прошивка на Rust для пульта управления iamcar на STM32F411. |
-| [stm32iamboot](https://github.com/iamadahn/stm32iamboot) | Загрузчик для STM32F1 с обновлением прошивки через USART. |
 
 <details>
 <summary>Подробнее о моих инструментах</summary>
